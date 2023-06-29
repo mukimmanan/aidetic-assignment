@@ -1,0 +1,17 @@
+{
+  "key": "1",
+  "click_data": {
+    "user_id": "123",
+    "timestamp": 1687981980,
+    "url": "https://www.hello.com"
+  },
+  "geo_data": {
+    "country": "India",
+    "city": "Mumbai"
+  },
+  "user_agent_data": {
+    "browser": "chrome",
+    "os": "windows",
+    "device": "laptop"
+  }
+}
